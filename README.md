@@ -20,15 +20,18 @@ git clone [Brainstorma](https://github.com/Brainstorma/Maze_Project/)
 
 2. Ensure that SDL2 is installed on your system. If not, refer to the SDL2 documentation for installation instructions.
 
-3. Compile the project using the provided Makefile.
+## Usage
+On the terminal run
 ```
 make
 ```
 
-4. Run the executable.
+This creates the executable file `raycast` (which is currently in this GitHub repository). Then run this to start up the application.
+
 ```
-./maze_project
+./raycast
 ```
+![Maze_game](./images/Maze_game.png)
 
 ## Features
 
